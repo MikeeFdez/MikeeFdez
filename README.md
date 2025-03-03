@@ -1,7 +1,7 @@
 ![miImagen](laptop.jpeg)
 
 # 💫 Hello there:
-🔭 I’m currently working on becoming a Software Engineer<br>🌱 I’m currently learning NextJS<br>⚡ Fun fact "Software and cathedrals are much the same, first we build them, then we pray."
+🌱 I’m currently working on becoming a Software Engineer<br>⚡ Fun fact "Software and cathedrals are much the same, first we build them, then we pray."
 
 
 ## 🌐 Socials:
